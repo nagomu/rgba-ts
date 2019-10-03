@@ -1,0 +1,8 @@
+{
+  "name": "rgba-ts",
+  "version": "0.0.1",
+  "repository": "git@github.com:nagomu/rgba-ts.git",
+  "author": "@nagomu",
+  "license": "MIT",
+  "private": true
+}
